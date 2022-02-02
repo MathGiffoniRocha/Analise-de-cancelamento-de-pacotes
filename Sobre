@@ -1,0 +1,10 @@
+<!-- Este programa foi criado com o intuito de analisar um realtorio de contratos (em forma de tabela) e cancelamentos de pacotes de uma empresa,
+nele foram criadas ferramentas para corrigir possíveis erros de dados na tabela, como objetos numéricos sendo reconhecidos como alfanuméricos e vice-versa.
+
+Além disso ele também cria gráficos comparativos a partir dos dados da tabela, para proporcionar uma análise critica do problema.
+
+Nele foram utilizados:
+            Pandas
+            Plotly
+
+Ele foi produzido e testado no ambiente Jupyter, um opensource para python. -->
